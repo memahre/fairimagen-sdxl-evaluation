@@ -17,8 +17,8 @@ This project evaluates [FairImagen](https://github.com/fuzihaofzh/FairImagen) (F
 ## Project Structure
 
 ```
-├── COGS185_FinalProject_Code.ipynb   # Full evaluation pipeline
-├── COGS185_FinalProject_Paper.pdf    # Final project paper
+├── fairimagen_sdxl_pipeline.ipynb   # Full evaluation pipeline
+├── fairimagen_sdxl_evaluation.pdf    # Final project paper
 └── README.md
 ```
 
